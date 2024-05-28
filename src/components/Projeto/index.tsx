@@ -8,7 +8,7 @@ const Projeto = () => (
     <Paragrafo tipo="secundario">
       Lista de Tarefas feita com vue.js
     </Paragrafo>
-    <LinkBotao href='#'>Vizualizar</LinkBotao>{/* Adicionado atributo href */}
+    <LinkBotao href='#'>Vizualizar</LinkBotao>
   </Card>
 );
 
